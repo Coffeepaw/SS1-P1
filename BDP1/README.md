@@ -11,9 +11,7 @@ Contiene lo necesario para poder ejecutar un contenedor con una base datos
 
 ### Contruir container
 
-docker build -t [nombre de la base de datos] [dockerfile]
-docker build -t my-mysql /home/luigitercero/carpeta/
-docker build -t my-mysql .
+docker build -t [nombre de la base de datos] [dockerfile].
 
 **entrar al container **
 
