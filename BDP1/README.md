@@ -31,7 +31,8 @@ docker exec -it [nombre de la base de datos] bash
 
 3. Crear un archivo dockerfile y agregar las instrucciones para construir
 
-nano dockerfile
+    nano dockerfile
 
 4. Copiar los archivos para construir la base de datos
 5. Crear la imagen de docker con docker build
+
