@@ -22,19 +22,18 @@ docker build -t my-mysql .
 docker exec -it [nombre de la base de datos] bash
 
 Pasos a seguir
+1. Crear una carpeta para el proyecto 
+    
+    cd ~
+    mkdir miProyectoDocker
+    
+2. Entrar a la carpeta
 
-    crear una carpeta para el proyecto
+    cd miProyectoDocker
 
-cd ~
-mkdir miProyectoDocker
-
-    entrar a la carpeta
-
-cd miProyectoDocker
-
-    crear un archivo dockerfile y agregar las instrucciones para construir
+3. Crear un archivo dockerfile y agregar las instrucciones para construir
 
 nano dockerfile
 
-    copiar los archivos para construir la base de datos
-    crear la imagen de docker con docker build
+4. Copiar los archivos para construir la base de datos
+5. Crear la imagen de docker con docker build
