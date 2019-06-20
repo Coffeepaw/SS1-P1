@@ -1,6 +1,6 @@
-### _BASE DE DATOS_
+# _BASE DE DATOS_
 
-## sql-scripts 
+# sql-scripts 
 Contiene los archivos que son utilizados para crear una base de datos al crear una base de datos
 
 # DockeFile
