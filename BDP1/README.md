@@ -9,9 +9,7 @@ Contiene como se debe crear una base de datos
 # DockeFile
 Contiene lo necesario para poder ejecutar un contenedor con una base datos
 
-Contiene lo necesario para poder ejecutar un contenedor con una base datos
-
-contruir container
+### Contruir container
 
 docker build -t [nombre de la base de datos] [dockerfile]
 docker build -t my-mysql /home/luigitercero/carpeta/
@@ -21,7 +19,7 @@ docker build -t my-mysql .
 
 docker exec -it [nombre de la base de datos] bash
 
-Pasos a seguir
+# Pasos a seguir
 1. Crear una carpeta para el proyecto 
     
     cd ~
