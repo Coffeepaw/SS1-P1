@@ -1,4 +1,4 @@
-#BASE DE DATOS
+Estructura de PIM #BASE DE DATOS
 
 sql-scripts 
 Contiene los archivos que son utilizados para crear una base de datos al crear una base de datos
