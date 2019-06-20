@@ -1,13 +1,12 @@
-##### Estructura de PIM 
 ### _BASE DE DATOS_
 
-sql-scripts 
+##sql-scripts 
 Contiene los archivos que son utilizados para crear una base de datos al crear una base de datos
 
-DockeFile
+#DockeFile
 Contiene como se debe crear una base de datos
 
-DockeFile
+#DockeFile
 Contiene lo necesario para poder ejecutar un contenedor con una base datos
 
 Contiene lo necesario para poder ejecutar un contenedor con una base datos
