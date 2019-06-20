@@ -3,6 +3,24 @@
 # sql-scripts 
 Contiene los archivos que son utilizados para crear una base de datos al crear una base de datos
 
+_SS1-P1/BDP1/sql-scripts/_
+
+- DDL
+Ejemplo de como creamos una tabla alumno en la base de datos
+```
+CREATE TABLE Alumno (
+carnet int,
+dpi bigint,
+nombre varchar(25),
+apellido  varchar(25),
+email  varchar(50),
+telefono varchar(8)
+);
+```
+
+- DML
+
+
 # DockeFile
 Contiene como se debe crear una base de datos y lo necesario para poder ejecutar un contenedor con una base datos
 
